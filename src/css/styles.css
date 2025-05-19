@@ -20,6 +20,7 @@ a:hover {
 }
 
 .list {
+    list-style: none;
     width: 300px;
     height: 700px;
     margin: 0 auto;
@@ -47,6 +48,7 @@ a:hover {
     gap: 24px;
     margin: 0 auto;
     padding-top: 40px;
+    list-style: none;
 }
 
 /*task-2*/
